@@ -161,7 +161,7 @@ module.exports = {
           babelrc: false,
           presets: [
             require.resolve('babel-preset-react-app'),
-            require.resolve('babel-preset-stage-0')
+            require.resolve('babel-preset-stage-0'),
           ],
         },
         // @remove-on-eject-end
